@@ -1,0 +1,11 @@
+[user]
+	name = Aldo Iljazi
+	email = mail@aldo.io
+[credential]
+	helper = cache --timeout=3600
+[core]
+	editor = gedit
+[help]
+	autocorrect = 1
+[color]
+	ui = always
